@@ -83,6 +83,10 @@
     font-weight: bold;
 }
 
+.h-title span {
+    text-transform: uppercase;
+}
+
 .h-title > :nth-child(3) {
     color: white;
 }

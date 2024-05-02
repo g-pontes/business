@@ -34,108 +34,108 @@ export const HeroData = [
 export const features = [
   {
     icon: "/features/Frame-0.png",
-    title: "3x monthly revenue",
+    title: "3x receita mensal",
   },
   {
     icon: "/features/Frame-1.png",
-    title: "Flat fee of 6-12%",
+    title: "Taxa fixa de 6-12%",
   },
   {
     icon: "/features/Frame-2.png",
-    title: "Flexible repayments by revenue share",
+    title: "Reembolsos flexíveis por participação na receita",
   },
   {
     icon: "/features/Frame-3.png",
-    title: "3-4 years repayment",
+    title: "Reembolso de 3-4 anos",
   },
   {
     icon: "/features/Frame-4.png",
-    title: "$10-100k seed investment",
+    title: "Investimento inicial de US$ 10-100 mil",
   },
   {
     icon: "/features/Frame-5.png",
-    title: "2% of revenue up to 3X cap",
+    title: "2% da receita até 3X o limite",
   },
 ];
 
 export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-0.png",
-    title: "Data Driven",
-    des: "Our mission is to level the playing field for early stage growth capital. We provide capital that is unbiased, flexible and non dilutive with the execution support to accelerate value creation",
+    title: "Orientado por dados",
+    des: "Nossa missão é nivelar o campo de atuação para o capital de crescimento em estágio inicial. Fornecemos capital imparcial, flexível e não diluidor com suporte de execução para acelerar a criação de valor",
   },
   {
     icon: "/OurDiff/Frame-1.png",
-    title: "flexible funding",
-    des: "Funding that flexes as revenue grows with transparent costs and does not require dilution, personal guarantees or pitch decks",
+    title: "financiamento flexível",
+    des: "Financiamento flexível à medida que a receita cresce com custos transparentes e não requer diluição, garantias pessoais ou apresentações de argumentos de venda",
   },
   {
     icon: "/OurDiff/Frame-2.png",
-    title: "value accelerating",
-    des: "On demand expertise to supercharge growth in areas that are hard to access for early stage founders",
+    title: "aceleração de valor",
+    des: "Experiência sob demanda para impulsionar o crescimento em áreas de difícil acesso para fundadores em estágio inicial",
   },
 ];
 
 export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-0.png",
-    title: "Connect",
-    des: "Register and qualify for funding in less than 5 mins. Connect revenue and marketing platforms you already use.",
+    title: "Conectar",
+    des: "Registre-se e qualifique-se para financiamento em menos de 5 minutos. Conecte plataformas de receita e marketing que você já usa.",
   },
   {
     icon: "/howItWorks/Frame-1.png",
-    title: "Get Funded",
-    des: "Get a term sheet with upto 3 funding offers. Select option that best suits and complete onboarding to receive funds in days",
+    title: "Seja financiado",
+    des: "Obtenha um termo de compromisso com até 3 ofertas de financiamento. Selecione a opção que melhor se adapta e conclua a integração para receber fundos em dias",
   },
   {
     icon: "/howItWorks/Frame-2.png",
-    title: "Support Growth",
-    des: "Access curated feed of actionable insights and on demand execution expertise. Auto qualify for follow on funding as you grow",
+    title: "Apoiar o crescimento",
+    des: "Acesse feeds selecionados com insights acionáveis e experiência em execução sob demanda. Qualificação automática para acompanhamento de financiamento à medida que você cresce",
   },
 ];
 
 export const whoWeInvest = [
   {
-    title: "Digital Business Model",
-    des: "Digital business model e.g. SaaS, subscription, D2C, apps",
+    title: "Modelo de negócios digitais",
+    des: "Modelo de negócios digital por ex. SaaS, assinatura, D2C, aplicativos",
   },
   {
-    title: "Revenue Generating",
-    des: "Revenue generating for 6 months, > $1k in monthly recurring revenue",
+    title: "Geração de receita",
+    des: "Geração de receita por 6 meses, > R$ 1 mil em receita recorrente mensal",
   },
   {
-    title: "Support Growth",
-    des: "Industry expertise: Fintech, Health, Deep tech, B2B software",
+    title: "Apoiar o crescimento",
+    des: "Experiência no setor: Fintech, Saúde, Deep tech, software B2B",
   },
   {
-    title: "International Expansion",
-    des: "Registered in Australia and Singapore (initially) with appetite for international expansion",
+    title: "Expansão internacional",
+    des: "Registrado na Austrália e em Cingapura (inicialmente) com apetite para expansão internacional",
   },
 ];
 
 export const testimonialsData = [
   {
     comment:
-      "SUPER HAPPY! Not only do you get to see the best seed and Early Stage companies but the exciting part is there’s a bunch of investors",
+      "SUPER FELIZ! Você não apenas consegue ver as melhores empresas de sementes e em estágio inicial, mas a parte interessante é que há um monte de investidores",
     name: "Zach Lee",
-    profession: "QA specialist, Matrix architect",
+    profession: "Especialista em controle de qualidade, arquiteto Matrix",
   },
   {
     comment:
-      "I have been working with ZAINKEEPSCODE on our fundraising strategies. They understands the in depth strategies of Venture Capital and early stage fund raising/company",
+      "Tenho trabalhado com estratégias de arrecadação de fundos. Eles entendem as estratégias aprofundadas de capital de risco e captação de recursos/empresa em estágio inicial",
     name: "Cheryl R. Weiss",
-    profession: "Founder, Dubrow Cafeteria",
+    profession: "Fundador, Dubrow Cafeteria",
   },
   {
     comment:
-      "Another masterpiece really digging into the art of venture funds, portfolio construction and deal mechanics! Loved it - I can say without hesitation that it is incredibly valuable for anyone who is investing",
+      "Outra obra-prima que realmente se aprofunda na arte dos fundos de risco, construção de portfólio e mecânica de negócios! Adorei - posso dizer sem hesitação que é extremamente valioso para quem está investindo",
     name: "Vicky R. Lane",
-    profession: "Directork, Lafayette Radio",
+    profession: "Diretor da Rádio Lafayette",
   },
   {
     comment:
-      "BlueVenture is the premier setting for entrepreneurs and investors alike to exchange ideas, and network. As an entrepreneur, I can rely on the BlueVenture to bring top caliber speakers, entrepreneurs and investors",
+      "BlueVenture é o principal cenário para empreendedores e investidores trocarem ideias e fazerem networking. Como empresário, posso contar com o BlueVenture para trazer palestrantes, empreendedores e investidores de alto calibre",
     name: "Jennifer Dubois",
-    profession: "Manager, China Coast",
+    profession: "Gerente, Costa da China",
   },
 ];

@@ -53,12 +53,12 @@ const Hero = () => {
                     style={{ backgroundColor: person.bg }}
                     className="person-pill-bg"
                   >
-                    <motion.img 
-                    initial={'initial'}
-                    animate={'animate'}
-                    variants={imgVariants()}
-                    src={person.src} 
-                    alt={person.src} 
+                    <motion.img
+                      initial={"initial"}
+                      animate={"animate"}
+                      variants={imgVariants()}
+                      src={person.src}
+                      alt={person.src}
                     />
                   </motion.div>
                 </div>
@@ -75,12 +75,12 @@ const Hero = () => {
                     style={{ backgroundColor: person.bg }}
                     className="person-pill-bg"
                   >
-                    <motion.img 
-                    initial={'initial'}
-                    animate={'animate'}
-                    variants={imgVariants()}
-                    src={person.src} 
-                    alt={person.src} 
+                    <motion.img
+                      initial={"initial"}
+                      animate={"animate"}
+                      variants={imgVariants()}
+                      src={person.src}
+                      alt={person.src}
                     />
                   </motion.div>
                 </div>
@@ -97,8 +97,8 @@ const Hero = () => {
             </div>
 
             <div className="h-des">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos,
-              exercitationem!
+              Financiamento baseado em receita e suporte de execução projetado
+              para fundadores em estágio inicial
             </div>
 
             <EmailBox />
