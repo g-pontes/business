@@ -45,12 +45,18 @@
 }
 
 .fund-button {
+    cursor: pointer;
     color: var(--dark-bg);
     background-color: var(--third-color);
     padding: 1rem 1.6rem;
     font-size: 1rem;
     text-transform: capitalize;
     border-radius: 999px;
+    transition: all .2s ease;
+}
+
+.fund-button:hover {
+    color: #fff;
 }
 
 .nm-container {
@@ -106,6 +112,7 @@
     }
 
     .m-funded-button {
+        cursor: pointer;
         width: 100%;
         background-color: var(--third-color);
         display: flex;
@@ -115,6 +122,11 @@
         padding: 1rem 0rem;
         border-radius: 999px;
         color: var(--dark-bg);
+        transition: all .3s ease;
+    }
+
+    .m-funded-button:hover {
+        color: #fff;
     }
 }
 
