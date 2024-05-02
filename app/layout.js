@@ -2,7 +2,7 @@ import "./globals.css";
 import { Josefin_Sans } from 'next/font/google';
 
 export const metadata = {
-  title: "Financy",
+  title: "H-Business",
   description: "",
 };
 
