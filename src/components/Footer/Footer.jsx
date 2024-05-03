@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 import { EmailBox } from "../EmailBox/EmailBox";
-
+import { Link } from "react-scroll";
 
 const Footer = () => {
   return (
@@ -13,11 +13,21 @@ const Footer = () => {
 
           <hr />
           <div className="f-menu">
-            <span>Home</span>
-            <span>O que nós fazemos</span>
-            <span>Como funciona</span>
-            <span>Em quem investimos</span>
-            <span>Avaliações</span>
+          <Link to="h-wrapper" spy smooth>
+              <span>Home</span>
+            </Link>
+            <Link to="wwd-wrapper" spy={true} smooth={true}>
+              <span>O que nós fazemos</span>
+            </Link>
+            <Link to="hiw-wrapper" spy smooth offset={100}>
+              <span>Como funciona</span>
+            </Link>
+            <Link to="wwi-wrapper" spy smooth>
+              <span>Em quem investimos</span>
+            </Link>
+            <Link to="t-wrapper" spy smooth offset={100}>
+              <span>Avaliações</span>
+            </Link>
           </div>
           <hr />
           <span className="text">Feito por g-Pontes</span>

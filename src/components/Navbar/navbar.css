@@ -5,6 +5,14 @@
     z-index: 999;
 }
 
+.sticky {
+    position: fixed;
+    box-shadow: 10px 12px 48px rgba(181, 187, 203, .206);
+    background: #fff;
+    top: 0;
+    
+}
+
 .n-container {
     padding: 1.5rem 1rem;
     color: rgb(230, 230, 230);
@@ -13,6 +21,15 @@
     align-items: center;
     justify-content: space-between;
     font-weight: 500;
+}
+
+.sticky .n-container {
+    color: var(--title-color);
+    padding: 1rem;
+}
+
+.sticky .n-menu span:hover {
+    color: rgba(54, 41, 141, 0.808);
 }
 
 .n-logo {
@@ -99,7 +116,7 @@
         height: calc(100vh - 3.9rem);
     }
 
-    .nm-menu span {
+    .nm-menu a {
         cursor: pointer;
         margin-bottom: 2rem;
         padding-bottom: 1rem;
@@ -107,7 +124,7 @@
         transition: ease .2s;
     }
 
-    .nm-menu span:hover {
+    .nm-menu a:hover {
         color: rgb(255, 255, 255);
     }
 

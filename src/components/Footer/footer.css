@@ -21,7 +21,9 @@
 
 .f-container .emailBox {
     max-width: 36rem;
+    cursor: pointer;
 }
+
 
 .f-container hr {
     border-color: var(--border-color-light);
@@ -36,10 +38,15 @@
 }
 
 .f-menu span {
-    color: #fff;
+    cursor: pointer;
+    color: rgb(230, 230, 230);
     text-transform: uppercase;
     font-size: 0.9rem;
     font-weight: bold;
+}
+
+.f-menu span:hover {
+    color: #fff;
 }
 
 @media (max-width: 990px) {

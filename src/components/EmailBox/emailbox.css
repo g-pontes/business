@@ -34,4 +34,16 @@
     padding: 0rem 2rem;
     border-radius: 999px;
     color: #fff;
+    transition: all .3s ease;
+}
+
+.getFunded:hover {
+    color: var(--dark-bg);
+}
+
+@media (max-width: 400px) {
+    .getFunded {
+        padding: 0rem 1rem;
+        font-size: .8rem;
+    }
 }
