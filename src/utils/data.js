@@ -71,7 +71,7 @@ export const ourDiffFeatures = [
   },
   {
     icon: "/OurDiff/Frame-2.png",
-    title: "aceleração de valor",
+    title: "aceleração de valores",
     des: "Experiência sob demanda para impulsionar o crescimento em áreas de difícil acesso para fundadores em estágio inicial",
   },
 ];

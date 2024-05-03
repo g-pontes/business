@@ -43,7 +43,7 @@
 }
 
 .od-feature .text {
-    text-align: center;
+    text-align: justify;
 }
 
 @media (max-width: 990px) {

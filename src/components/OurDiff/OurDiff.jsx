@@ -64,7 +64,7 @@ const OurDiff = () => {
                   width={128}
                   height={128}
                 />
-                <span className="title">{feature.title}</span>
+                <span className="sec-title">{feature.title}</span>
                 <span className="text">{feature.des}</span>
               </motion.div>
             ))}
